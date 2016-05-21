@@ -1,7 +1,7 @@
 
 'use strict';
 
-var root = 				'/extensions/qlik-mashup-angularjs-bootstrap/';
+var root = 				'/extensions/SiWebRisorse/';
 var extRoot = 			root + 'js';
 var extIncludeRoot =	root + 'include'
 
