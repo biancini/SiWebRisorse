@@ -1,0 +1,14 @@
+{
+	"type": "mashup",
+	"name": "SiWebRisorse",
+	"version": "1.0.0",
+	"description": "Dashboard showing SIweb resources for Reti",
+	"homepage": "index.html",
+	"author": "Andrea Biancini <andrea.biancini@reti.it>",
+	"keywords": "qlik-sense, mashup",
+	"license": "Apache 2.0",
+	"repository": "",
+	"dependencies": {
+		"qlik-sense": ">=2.1.x"
+	}
+}
