@@ -1,10 +1,7 @@
-# qlik-mashup-angularjs-bootstrap
+# SiWeb Risorse
 
-a simple Qlik Sense mashup that uses angularjs and bootstrap + requirejs and that can be used as a starter kit
-
-It prints all objects of all sheets using bootstrap panels (4 columns)
-
-You can customize this behaviour by changing the main view (js and/or html)
+Qlik Sense mashup that uses angularjs and bootstrap + requirejs to show stats and information about Reti
+resources obtained from SiWeb.
 
 # Instructions
 
